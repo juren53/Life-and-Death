@@ -16,7 +16,7 @@ We lived close to Burbank Airport — close enough that the sound of aircraft wa
 
 What broke the pattern that afternoon was a sound that was not familiar at all.
 
-It began like the sound of any aircraft approaching — a low mechanical growl from the direction of the airport — but within seconds it was clear that this was different - - something was wrong. The sound was growing too fast, and it had a quality to it that was different from the commuter planes and light aircraft we heard all the time. It was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, climbing toward a threshold that normal aircraft sounds never approached. It became deafening. It filled the house, filled the air, filled everything.
+It began like the sound of any aircraft approaching — a low mechanical growl from the direction of the airport — but within seconds it was clear that this was different - - something was wrong. The sound was growing too fast and too loud. It had a quality to it that was different from the commuter planes and light aircraft we heard all the time. It was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, climbing toward a threshold that normal aircraft sounds never approached. It became deafening. It shook the house, filled the air, filled everything.
 
 Then the house went dark.
 
@@ -24,9 +24,9 @@ The shadow of the plane swept over the house and swallowed it whole — a moving
 
 The sound of the plane began to recede, moving past and beyond the neighborhood — and then came the explosion.
 
-It was not a sharp crack but a rolling concussion, a low rumble that traveled through the ground as much as the air, and it shook the house for what felt like five or ten seconds. Then there were shouts. The sound of running — feet on pavement, children's voices, adults calling out to one another. People poured into the street.
+It was not a sharp crack but a rolling concussion, a low rumble that traveled through the ground as much as the air, and it shook the house for what felt like five or ten seconds. Then there were shouts. The sound of running — feet on pavement, children's voices, adults calling out to one another. Neighbors poured into the street.
 
-The plane had come down at the northern end of Goodland Avenue, just a few blocks away.
+The plane had come down at the northern end of Goodland Avenue, just a few hundred yards from our front door.
 
 ---
 
