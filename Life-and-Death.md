@@ -12,7 +12,7 @@ At thirteen, the pennant race felt like a matter of life and death. That is not 
 
 That Saturday, September 17th, I was in the house on Goodland Avenue, listening intently to the radio. The Dodgers were pushing toward the pennant and I had my full attention committed to the play-by-play, tracking every inning with the focus that only a thirteen-year-old who considers baseball a matter of genuine consequence can muster. The afternoon was warm the way September afternoons in the San Fernando Valley were always warm — dry and golden and a little drowsy. The neighborhood was quiet in the way neighborhoods were quiet on a Saturday before the world became permanently loud.
 
-We lived close to Burbank Airport — close enough that the sound of aircraft was simply part of the ambient texture of life. Planes came and went all day. You stopped hearing them after a while.  We would often did out own plane spotting from the back yard.  When you were in the house, you might notice the sound but then go about what you were doing. You only notice things that break a pattern.
+We lived close to Burbank Airport — close enough that the sound of aircraft was simply part of the ambient texture of life. Planes came and went all day. You stopped hearing them after a while.  We would often do our own plane spotting from the back yard.  When you were in the house, you might notice the sound but then go about what you were doing. You only notice things that break a pattern.
 
 What broke the pattern that afternoon was a sound that was not familiar at all.
 
