@@ -6,17 +6,17 @@ by Jim U'Ren
 2026-03-15  1540
 
 
-In the late-summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members.  Those who did not share the obsession just shook their heads at us.
+In the late-summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us.
 
 At thirteen, the pennant race felt like a matter of life and death. That is not a figure of speech — that is how it felt. Games in September carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way a patient checks a fever, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
 
 That Saturday, September 17th, I was in the house on Goodland Avenue, listening intently to the radio. The Dodgers were pushing toward the pennant and I had my full attention committed to the play-by-play, tracking every inning with the focus that only a thirteen-year-old who considers baseball a matter of genuine consequence can muster. The afternoon was warm the way September afternoons in the San Fernando Valley were always warm — dry and golden and a little drowsy. The neighborhood was quiet in the way neighborhoods were quiet on a Saturday before the world became permanently loud.
 
-We lived close to Burbank Airport — close enough that the sound of aircraft was simply part of the ambient texture of life. Planes came and went all day. You stopped hearing them after a while.  We would often do our own plane spotting from the back yard.  When you were in the house, you might notice the sound but then go about what you were doing. You only notice things that break a pattern.
+We lived close to Burbank Airport — close enough that the sound of aircraft was simply part of the ambient texture of life. Planes came and went all day. You stopped hearing them after a while. We would often do our own plane spotting from the back yard. When you were in the house, you might notice the sound but then go about what you were doing. You only notice things that break a pattern.
 
 What broke the pattern that afternoon was a sound that was not familiar at all.
 
-It began like the sound of any aircraft approaching — a low mechanical growl from the direction of the airport — but within seconds it was clear that this was different - - something was wrong. The sound was growing too fast and too loud. It had a quality to it that was different from the commuter planes and light aircraft we heard all the time. It was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, climbing toward a threshold that normal aircraft sounds never approached. It became deafening. It shook the house, filled the air, filled everything.
+It began like the sound of any aircraft approaching — a low mechanical growl from the direction of the airport — but within seconds it was clear that this was different — something was wrong. The sound was growing too fast and too loud. It had a quality to it that was different from the commuter planes and light aircraft we heard all the time. It was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, climbing toward a threshold that normal aircraft sounds never approached. It became deafening. It shook the house, filled the air, filled everything.
 
 Then the house went dark.
 
