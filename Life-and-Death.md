@@ -3,20 +3,20 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-03-15
+2026-03-15  1540
 
 
-In the fall of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the unreasonable. This was not something I could easily explain to someone who had not grown up in Los Angeles in that era. The Dodgers were not merely a baseball team. They were a civic religion, and Sandy Koufax was its high priest — a left-handed southpaw of almost supernatural ability who could make a curveball do things that seemed to belong in physics lectures rather than on a ball field. To be a boy in Los Angeles in the mid-1960s and not be a Dodger fan was to be something close to an alien.
+In the late-summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. This was not something I could easily explain to someone who had not grown up in Los Angeles in that era. The Dodgers were not merely a baseball team. They were a institution, and Sandy Koufax was its high priest — a left-handed southpaw of almost supernatural ability who could make a curveball do things that seemed to belong in physics lectures rather than on a ball field. To be a boy in Los Angeles in the mid-1960s and not be a Dodger fan was to be something close to an alien.
 
 At thirteen, the pennant race felt like a matter of life and death. That is not a figure of speech — that is how it felt. Games in September carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way a patient checks a fever, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
 
 That Saturday, September 17th, I was in the house on Goodland Avenue, listening intently to the radio. The Dodgers were pushing toward the pennant and I had my full attention committed to the play-by-play, tracking every inning with the focus that only a thirteen-year-old who considers baseball a matter of genuine consequence can muster. The afternoon was warm the way September afternoons in the San Fernando Valley were always warm — dry and golden and a little drowsy. The neighborhood was quiet in the way neighborhoods were quiet on a Saturday before the world became permanently loud.
 
-We lived close to Burbank Airport — close enough that the sound of aircraft was simply part of the ambient texture of life. Planes came and went all day. You stopped hearing them after a while, the way you stop hearing the hum of a refrigerator or the sound of traffic on a street you've lived beside for years. The ear filters out the familiar. You only notice what breaks the pattern.
+We lived close to Burbank Airport — close enough that the sound of aircraft was simply part of the ambient texture of life. Planes came and went all day. You stopped hearing them after a while.  We would often did out own plane spotting from the back yard.  When you were in the house, you might notice the sound but then go about what you were doing. You only notice things that break a pattern.
 
 What broke the pattern that afternoon was a sound that was not familiar at all.
 
-It began like the sound of any aircraft approaching — a low mechanical growl from the direction of the airport — but within seconds it was clear that something was wrong. The sound was growing too fast, and it had a quality to it that was different from the commuter planes and light aircraft I had been tuning out my entire life. It was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, climbing toward a threshold that normal aircraft sounds never approached. It became deafening. It filled the house, filled the air, filled everything.
+It began like the sound of any aircraft approaching — a low mechanical growl from the direction of the airport — but within seconds it was clear that this was different - - something was wrong. The sound was growing too fast, and it had a quality to it that was different from the commuter planes and light aircraft we heard all the time. It was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, climbing toward a threshold that normal aircraft sounds never approached. It became deafening. It filled the house, filled the air, filled everything.
 
 Then the house went dark.
 
