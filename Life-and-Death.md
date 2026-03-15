@@ -6,7 +6,7 @@ by Jim U'Ren
 2026-03-15  1540
 
 
-In the late-summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. This was not something I could easily explain to someone who had not grown up in Los Angeles in that era. The Dodgers were not merely a baseball team. They were a institution, and Sandy Koufax was its high priest — a left-handed southpaw of almost supernatural ability who could make a curveball do things that seemed to belong in physics lectures rather than on a ball field. To be a boy in Los Angeles in the mid-1960s and not be a Dodger fan was to be something close to an alien.
+In the late-summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. I was an obsession I shared with Dad and a few other family members.  Those who did not share the obsession just shook their heads at us.
 
 At thirteen, the pennant race felt like a matter of life and death. That is not a figure of speech — that is how it felt. Games in September carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way a patient checks a fever, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
 
