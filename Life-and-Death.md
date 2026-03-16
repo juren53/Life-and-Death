@@ -14,7 +14,7 @@ We lived close to Burbank Airport — close enough that the sound of aircraft wa
 
 What broke the pattern that afternoon was a sound that was completely out of the ordinary.
 
-It began like the sound of an aircraft approaching — a low menacing growl from the direction of the airport — but within seconds it was clear that this was different — something was definitely wrong. The sound was growing too fast and too loud. It had a quality to it that was different from the aircraft we heard all the time. This was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, the sound climbing toward a crescendo that normal aircraft sounds never approached. It became deafening. It shook the house, filled the air, filled everything.
+It began like the sound of an aircraft approaching — a low menacing growl from the direction of the airport — but within seconds it was clear that this was different — something was definitely wrong. The sound was growing too fast and too loud. It had a quality to it that was different from the aircraft we heard all the time. This was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, the sound climbing toward a crescendo that normal aircraft sounds never approached. It became deafening. It shook the house, filled the air, it filled everything.
 
 Then the house went dark.
 
