@@ -228,10 +228,32 @@ In the Eighth Air Force, for every man wounded, roughly three were killed. This 
 
 ---
 
-**Would you like me to see if I can find the "Missing Air Crew Report" (MACR) for a specific aircraft or date that these pilots were involved in?**
+The information regarding **Jim Bissell** and **Jack Hennessy** is primarily drawn from the archival records and veteran rosters maintained by the **452nd Bomb Group Association** and the **American Air Museum in Britain**.
+
+### 📖 Primary Sources
+
+The most specific data comes from the following historical archives:
+
+1. **The 452nd Bomb Group Association (Deopham Green):**
+This association maintains the official **Loading Lists** (daily flight manifests) and personnel rosters for the **729th Bomb Squadron**. Their records verify that both men were active pilots within the squadron during the 1944–1945 combat tour.
+* *Note:* The association's master spreadsheet of 250 missions is the "gold standard" for cross-referencing which pilots flew on which days.
 
 
+2. **American Air Museum in Britain (Imperial War Museum):**
+This museum holds digitized records and photographs from **Station 142 (RAF Deopham Green)**. These archives include the specific history of the B-17G **"The Punched Fowl"** (Serial #42-31361), the aircraft most frequently associated with Jim Bissell’s flight history in the 729th.
+3. **National Archives (MACR - Missing Air Crew Reports):**
+For missions involving casualties or lost aircraft, such as the August 4, 1944, mission where *The Punched Fowl* was lost, the **MACR** provides the official military account of the crew members, their positions, and their fate.
 
+### 🔍 Verification Tip
+
+If you are looking at the **452nd BG Association website**, you will find their names listed in the **"Names at Deopham Green"** PDF, which serves as a searchable index of every airman stationed at the base.
+
+* **Jim Bissell** is typically listed as a 1st Lieutenant or Captain.
+* **Jack Hennessy** is likewise recorded as a Pilot in the same squadron rosters.
+
+The association's files are periodically updated as families contribute private logs and photos. Because they were in the same squadron, their names often appear sequentially in the squadron's monthly historical summaries.
+
+**Would you like me to guide you through the specific steps of searching the American Air Museum’s digital database for their individual personnel files?**
 
 
 
