@@ -32,7 +32,7 @@ The aircraft that crashed at the end of Goodland Avenue was an AJ-1 Savage — a
 
 The pilot, Major John Francis "Jack" Hennessy, was 47 years old, a veteran of two wars who had survived more than most men are ever asked to survive. He had arrived in England in the spring of 1944 as a B-17 pilot with the 729th Bomb Squadron, flying missions over Nazi Germany through the most dangerous phase of the air war — through the flak corridors over German oil refineries and industrial centers, through fighter interceptions, through everything the Reich could put in the sky. He survived all of it. He survived Korea too. Major Hennessy had served his country with distinction across two decades of war, and had gone on to spend his postwar years flying over burning hillsides and fighting the forest fires that annually plague the Western States. In the final seconds of his last flight, with the plane coming down and neighborhoods below him, he made a decision. He banked the aircraft. He turned it away from houses — deliberately guiding a dying plane away from the people and homes on the ground. The maneuver cost him his last available options, and sadly, Major Hennessy's life.
 
-Major John Hennessy was buried at Forest Lawn Memorial Park in Glendale, California. His headstone reads: *Major, 729 Bomb Sq AF, World War II, Korea.* It deserves an added line: "Here lies a hero who saved countless lives as he lost his."
+Major John Hennessy was buried at Forest Lawn Memorial Park in Glendale, California. His headstone reads: *Major, 729 Bomb Sq AF, World War II, Korea.* It deserves more. It deserves the epithet;  "Here lies a hero who saved countless lives as he lost his."
 
 ---
 
