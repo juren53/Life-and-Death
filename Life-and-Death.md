@@ -34,6 +34,20 @@ The pilot, Major John Francis "Jack" Hennessy, was 47 years old, a veteran of Wo
 
 Major John Hennessy was buried at Forest Lawn Memorial Park in Glendale, California. His headstone reads: *Major, 729 Bomb Sq AF, World War II, Korea.* It deserves an added line: "Here lies a hero who saved countless lives as he lost his."
 
+---
+
+In the days that followed, the story came to us in pieces — and only in whispers.
+
+My father had been at work that Saturday when the crash happened. Sometime that afternoon he called Jim Bissell, a close family friend who lived in Glendale, about twenty minutes away. Jim and Betty Bissell had been in my parents' wedding party in 1947, and over the years our families had spent summers at the Bissell pool and shared evenings together in a supper club that made its way through the restaurants of Los Angeles a few times a year. Dad knew something the rest of us didn't yet — that Jim Bissell and Jack Hennessy had served together in the same bomb squadron during the war, flying B-17s over occupied Europe.
+
+He tried to tell us at dinner that night. My mother stopped him. She had watched the smoke from our front yard and that was enough — she had no room left for the story behind it. The subject was closed.
+
+But my father found ways to share it anyway, in lowered voices, in the hallway, in small installments over the following days as we pressed him for whatever he knew. And what he knew — what landed on me with a force I couldn't quite account for at thirteen — was that the man who had died at the end of our street had known Mr. Bissell. Had flown with him. Had sat in the same briefing rooms, taxied out on the same runways, navigated the same frozen air over Germany. By 1966 Bissell was flying corporate jets for Disney out of Burbank, and it was entirely possible that the two men had stayed in touch — war buddies often did, and they were working out of the same airport. The world, it turned out, was that small. And somehow that smallness made the loss larger.
+
+I never asked Jim Bissell about any of it directly. He was a grown-up and I was a kid, and then in 1968 we moved to St. Louis and the Bissells became Christmas cards. The questions I might have asked went unasked, the way so many questions do when you're young enough to assume there will always be more time.
+
+---
+
 I did not know any of this on that September afternoon. I was thirteen, and what I knew was that something enormous had nearly happened, and then had not happened, and now there were sirens and smoke somewhere down the block and the Dodger game was still playing on the radio in a room that suddenly felt very small and very quiet.
 
 ---
