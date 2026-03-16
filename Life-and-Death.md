@@ -18,7 +18,7 @@ It began like the sound of an aircraft approaching — a low menacing growl from
 
 Then the house went dark.
 
-The shadow of the plane swept over the house and swallowed it whole — a moving darkness, total and sudden, blotting out the September sun for a long, suspended moment. I sat very still — I did not hear a baseball game on the radio. The roar was at its peak. And then the shadow moved on, sliding off the far side of the house the way a storm cloud moves, and the sunlight came flooding back.
+The shadow of the plane swept over the house and swallowed it whole — a moving darkness, total and sudden, blotting out the September sun for a long, suspended moment. I sat very still, frozen in front of the radio.  I did not hear a baseball game. The roar was at its peak. And then the shadow moved on, sliding off the far side of the house the way a storm cloud moves, and the sunlight came flooding back.
 
 The sound of the plane began to recede, moving past and beyond the neighborhood — and then came the explosion.
 
