@@ -24,7 +24,7 @@ The sound of the plane began to recede, moving past and beyond the neighborhood 
 
 It was not a sharp crack but a rolling concussion, a low rumble that traveled through the ground as much as the air, and it shook the house for what felt like five or ten seconds. Then there were shouts. The sound of running — feet on pavement, children's voices, mothers calling out to their children. Neighbors poured into the street.
 
-A plane had crashed at the northern end of Goodland Avenue, just a few hundred yards from our front door. I rushed out the door to the front yard and witnessed something I can only hope no thirteen-year-old would ever see. Flames and billowing smoke filled my vision — to call it surreal would be an understatement. Those flames, that smoke carried the message to my young mind — someone has just lost their life in that inferno.
+A plane had crashed at the northern end of Goodland Avenue, just a few hundred yards from our front door. I rushed out to the front yard and witnessed something I can only hope no thirteen-year-old would ever see. Flames and billowing smoke filled my vision — to call it surreal would be an understatement. Those flames, that smoke carried the message to my young mind — someone has just lost their life in that inferno.
 
 ---
 
