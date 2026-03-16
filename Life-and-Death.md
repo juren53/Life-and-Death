@@ -72,7 +72,7 @@ He saved numerous lives that afternoon — sadly, he could not save his own.
 
 I was thirteen years old. I did not know yet how close the distance was between ordinary and gone, between an afternoon on Goodland Avenue listening to the Dodger game and something else entirely. I know it now. I have known it for sixty years, every time I hear a plane overhead that sounds a little wrong, every time I'm in a plane and feel the ground fall away beneath me, every time I think about a man named Hennessy who made a choice in the sky above a neighborhood where a boy was listening to a baseball game.
 
-The pennant race felt like life and death. Hennessy showed me the difference.
+The pennant race felt like life and death. Jack Hennessy helped me understand the difference.
 
 His final gift was our lives. We lived them — and not a day has passed that I haven't been grateful for that.
 
