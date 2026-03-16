@@ -1,4 +1,4 @@
-# Life and Death
+# Learning the Meaning of Life and Death
 
 ### Recollections of September 17, 1966, North Hollywood, California
 
