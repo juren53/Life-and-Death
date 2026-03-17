@@ -74,8 +74,6 @@ I was thirteen years old. I did not know yet how close the distance was between 
 
 The pennant race felt like life and death. Jack Hennessy helped me understand the difference.
 
-His final gift was our lives. We lived them — and not a day has passed that I haven't been grateful for that.
-
 ---
 
 ## Archival Materials
