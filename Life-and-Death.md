@@ -48,7 +48,7 @@ I never got the chance to talk with Jim Bissell about any of it directly. He was
 
 ---
 
-I did not know any of this on that September afternoon. I was thirteen, and what I knew was that something enormous had nearly happened, and then had not happened, and now there were sirens and smoke somewhere down the block and the Dodger game was still playing on the radio in a room that suddenly felt very small and not very important.
+But on that September afternoon, I did not know any of this. I was thirteen, and what I knew was that something enormous had nearly happened, and then had not happened, and now there were sirens and smoke somewhere down the block and the Dodger game was still playing on the radio in a room that suddenly felt very small and not very important.
 
 ---
 
