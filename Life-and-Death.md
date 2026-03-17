@@ -44,7 +44,7 @@ He tried to tell us at dinner that night. My mother stopped him. She had watched
 
 But my father found ways to share it anyway, in lowered voices, in the hallway, in small installments over the following days as we pressed him for whatever he knew. And what he knew — what landed on me with a force I couldn't quite account for at thirteen — was that the man who had died at the end of our street had known Mr. Bissell. Had flown B-17s with him in World War II. Had sat in the same briefing rooms, taxied out on the same runways, navigated the same frozen air over Germany. By 1966 Bissell was flying corporate jets for Disney out of Burbank, and it was entirely possible that the two men had stayed in touch — war buddies often did, and they were working out of the same airport. The world, it turned out, was that small. And somehow that smallness made the loss larger.
 
-I never got the chance to talk with Jim Bissell about any of it directly. He was a grown-up and I was a kid, and then in 1968 we moved to St. Louis and the Bissells became Christmas cards. The questions I might have asked went unasked, the way so many questions do when you're young enough to assume there will always be more time.
+I never got the chance to talk with Jim Bissell about any of it directly. He was a grown-up and I was a kid, and then in 1968 we moved to St. Louis and I would see their Christmas cards but that was it. The questions I might have asked went unasked, the way so many questions do when you're young enough to assume there will always be more time.
 
 ---
 
