@@ -20,7 +20,7 @@ Then the house went dark.
 
 The shadow of the plane swept over the house and swallowed it whole — a moving darkness, total and sudden, blotting out the September sun for a long, suspended moment. I sat very still, frozen in front of the radio.  I did not hear a baseball game. The roar was at its peak. And then the shadow moved on, sliding off the far side of the house the way a storm cloud moves, and the sunlight came flooding back.
 
-The sound of the plane began to recede, moving past and beyond the neighborhood — and then came the explosion.
+The sound of the plane began to recede — and then came an explosion.
 
 It was not a sharp crack but a rolling concussion, a low rumble that traveled through the ground as much as the air, and it shook the house for what felt like five or ten seconds. Then there were shouts. The sound of running — feet on pavement, children's voices, mothers calling out to their children. Neighbors poured into the street.
 
