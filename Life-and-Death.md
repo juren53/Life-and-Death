@@ -24,7 +24,7 @@ The sound of the plane began to recede, moving past and beyond the neighborhood 
 
 It was not a sharp crack but a rolling concussion, a low rumble that traveled through the ground as much as the air, and it shook the house for what felt like five or ten seconds. Then there were shouts. The sound of running — feet on pavement, children's voices, mothers calling out to their children. Neighbors poured into the street.
 
-A plane had crashed at the northern end of Goodland Avenue, just a few hundred feet from our front door. I rushed out to the front yard and saw something no thirteen-year-old should ever have to see. Flames and billowing smoke and secondary explosions created an overwhelming, surreal scene.  And in that moment my young adolescent brain came to grips with the gut wrenching conclusion that someone had just lost their life in that inferno.
+A plane had crashed at the northern end of Goodland Avenue, just a few hundred feet from our front door. I rushed out to the front yard and saw something no thirteen-year-old should ever have to see. Flames and billowing smoke and secondary explosions created an overwhelming, surreal scene.  And in that moment my young adolescent brain came to grips with the gut-wrenching conclusion that someone had just lost their life in that inferno.
 
 ---
 
@@ -32,7 +32,7 @@ The aircraft that crashed at the end of Goodland Avenue was an AJ-1 Savage — a
 
 The pilot, Major John Francis "Jack" Hennessy, was 47 years old, a veteran of two wars who had survived more dangerous situations than most could have survived. He had arrived in England in the spring of 1944 as a B-17 pilot with the 729th Bomb Squadron, flying missions over Nazi Germany through the most dangerous phase of the air war — through the flak corridors over German oil refineries and industrial centers, through fighter interceptions, through everything the Reich could put in the sky. He survived all of it. He survived Korea too. Major Hennessy had served his country with distinction across two decades of war, and had gone on to spend his postwar years flying over burning hillsides and fighting the forest fires that annually plague the Western States. In the final seconds of his last flight, with the plane coming down and neighborhoods below him, he made a decision. He banked the aircraft. He turned it away from houses — deliberately guiding a dying plane away from the people and homes on the ground. The maneuver cost him his last available options, and sadly, Major Hennessy's life.
 
-Major John Hennessy was buried at Forest Lawn Memorial Park in Glendale, California. His headstone reads: *Major, 729 Bomb Sq AF, World War II, Korea.* It deserves more. It deserves the epithet;  "Here lies a hero who saved countless lives as he lost his."
+Major John Hennessy was buried at Forest Lawn Memorial Park in Glendale, California. His headstone reads: *Major, 729 Bomb Sq AF, World War II, Korea.* It deserves more. It deserves the epitaph: "Here lies a hero who saved countless lives as he lost his."
 
 ---
 
@@ -42,13 +42,13 @@ My father had been at work that Saturday when the crash happened. Sometime that 
 
 He tried to tell us at dinner that night. My mother stopped him. She had watched the smoke from our front yard and that was enough — she had no room left for the story behind it. The subject was closed.
 
-But after dinner my father found the time to share what he knew. In lowered voices, in the hallway, and in small installments over the following days as we pressed him for whatever he knew. And what he knew — what landed on me with a force I couldn't quite account for at thirteen — was that the man who had died in the plane crash at the end of our street had known Mr. Bissell. Had flown B-17s with him in World War II. Had sat in the same briefing rooms, taxied out on the same runways, navigated the same frozen air over Germany. It was hard for a young boys brain to process and it took some time to sink in.  By 1966 Bissell was flying corporate jets for Disney out of Burbank and Hennessy was fighting forest fires from the air. It was likely that the two men had stayed in touch — war buddies often did, and they were working out of the same airport. The world, it turned out, was that small. And somehow that smallness made the loss larger.
+But after dinner my father found the time to share what he knew. In lowered voices, in the hallway, and in small installments over the following days as we pressed him for whatever he knew. And what he knew — what landed on me with a force I couldn't quite account for at thirteen — was that the man who had died in the plane crash at the end of our street had known Mr. Bissell. Had flown B-17s with him in World War II. Had sat in the same briefing rooms, taxied out on the same runways, navigated the same frozen air over Germany. It was hard for a young boy's brain to process and it took some time to sink in.  By 1966 Bissell was flying corporate jets for Disney out of Burbank and Hennessy was fighting forest fires from the air. It was likely that the two men had stayed in touch — war buddies often did, and they were working out of the same airport. The world, it turned out, was that small. And somehow that smallness made the loss larger.
 
 I never got the chance to talk with Jim Bissell about any of it directly. He was a grown-up and I was a kid, and then in 1968 we moved to St. Louis and I would see their Christmas cards but that was it. The questions I would like to have asked went unasked, the way so many questions do when you're young enough to assume there will always be more time.
 
 ---
 
-I did not know any of this on that September afternoon. I was thirteen, and what I knew was that something enormous had nearly happened, and then had not happen, and now there were sirens and smoke somewhere down the block and the Dodger game was still playing on the radio in a room that suddenly felt very small and not very important.
+I did not know any of this on that September afternoon. I was thirteen, and what I knew was that something enormous had nearly happened, and then had not happened, and now there were sirens and smoke somewhere down the block and the Dodger game was still playing on the radio in a room that suddenly felt very small and not very important.
 
 ---
 
