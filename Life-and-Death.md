@@ -64,7 +64,7 @@ None of us got to thank him. None of us even knew his name that day.
 
 The Dodgers won the game on that somber day in September 1966. They went on to win the NL pennant and then lose in the World Series but the fever pitch of my obsession was gone. Things had changed. Something had shifted. The pennant race that had seemed, that very afternoon, to be the most consequential thing in the world had been placed, suddenly and without my consent, next to something else — and in that comparison it found its actual size.
 
-That is the thing about a genuine brush with death. It does not ask permission to rearrange your sense of proportion. It simply does it, quietly and permanently, the way a door closing in a far room changes the acoustics of the whole house.
+That is the thing about a genuine brush with death. It does not ask permission to rearrange your sense of proportion. It simply does it, quietly and permanently, the way a door closing in a far room suddenly changes the acoustics of the whole house.
 
 What I came to understand only gradually — and more fully once I began flying myself — was the nature of what Jack Hennessy had done in those final seconds. It was not merely that he had tried to avoid the houses. It was that he had succeeded. A pilot in command of a dying aircraft, at low altitude, with seconds to work with, had managed to thread the plane through a residential neighborhood and bring it down in the one way that minimized, to the greatest extent still available to him, the loss of human life. He had, in effect, engineered the crash. Controlled the uncontrollable. Chosen deliberately in a moment where most people are left with nothing but panic.
 
