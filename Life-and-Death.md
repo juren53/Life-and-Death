@@ -38,7 +38,7 @@ Major John Hennessy was buried at Forest Lawn Memorial Park in Glendale, Califor
 
 In the days that followed, the story came to us in pieces — and only in whispers.
 
-My father had been at work that Saturday when the crash happened. Sometime that afternoon he called Jim Bissell, a pilot and close friend who lived in Glendale, about twenty minutes away. Jim and Betty Bissell had been in my parents' wedding party in 1947, and over the years our families had spent summer afternoons at the Bissell pool.  Both couples were part of a supper club consisting of old friends that met regularly to sample the restaurants of Los Angeles.  When Dad got home that evening, he knew something the rest of us didn't yet — that Jim Bissell and Jack Hennessy had served together in the same bomber squadron during the war, flying incredibly dangerous B-17 missions over Nazi occupied Europe.
+My father had been at work that Saturday when the crash happened. Sometime that afternoon he called Jim Bissell, a pilot and close friend who lived in Glendale, about twenty minutes away. Jim and Betty Bissell had been in my parents' wedding party in 1947, and over the years our families had spent summer afternoons at the Bissell pool.  Both couples were part of a supper club consisting of old friends that met regularly to sample the restaurants of Los Angeles.  When Dad got home that evening, he knew something the rest of us didn't yet — that Jim Bissell and Jack Hennessy had served together flying B-17s out of RAF Deopham Green, England for the 729th Bomb Squadron.
 
 He tried to tell us at dinner that night. My mother stopped him. She had watched the smoke from our front yard and that was enough — she had no room left for the story behind it. The subject was closed.
 
