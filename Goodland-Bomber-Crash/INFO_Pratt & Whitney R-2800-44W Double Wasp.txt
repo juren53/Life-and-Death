@@ -1,0 +1,19 @@
+The Pratt & Whitney R-2800-44W Double Wasp was a specialized variant of the legendary 18-cylinder radial engine, specifically optimized for high-altitude performance and durability using water-alcohol injection (the "W" suffix).
+
+Generating approximately 2,400 hp (roughly 1,790 kW) at takeoff, this specific sub-model was most notably used in the following aircraft:
+
+Primary Aircraft
+Vought F4U-4 Corsair: While various Corsair models used different R-2800 versions, the -44W was a standard powerplant for later production blocks of the F4U-4. It provided the necessary boost for the carrier-based fighter to maintain an edge in climb rate and top speed during the late stages of WWII and into the Korean War.
+
+Grumman F8F-1 Bearcat: Some late-production versions and specific configurations of the F8F-1 utilized the -44W. The Bearcat was designed for extreme power-to-weight ratios, and the 2,400 hp output made it one of the fastest piston-engine fighters ever built.
+
+Key Specifications of the -44W
+The performance of the R-2800-44W was defined by its ability to handle high manifold pressures through cooling and fuel chemistry:
+
+Type: 18-cylinder, air-cooled, twin-row radial.
+
+Displacement: 2,804 cubic inches (46 liters).
+
+Induction: Two-stage, two-speed supercharger.
+
+Water Injection: Used to suppress detonation, allowing the engine to run at higher "Combat Power" settings without overheating the cylinders.
