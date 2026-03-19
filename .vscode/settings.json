@@ -1,0 +1,49 @@
+{
+  // --- Layout & readability ---
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "editor.lineHeight": 1.8,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Georgia, 'Times New Roman', serif",
+  "editor.rulers": [],
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.scrollBeyondLastLine": false,
+
+  // --- Disable code-editor noise for prose ---
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false,
+  "editor.snippetSuggestions": "none",
+
+  // --- Markdown-specific overrides ---
+  "[markdown]": {
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 100,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.trimTrailingWhitespace": false
+  },
+
+  // --- Spell check (cSpell) ---
+  "cSpell.language": "en-US",
+  "cSpell.words": [
+    "Hennessy", "Bissell", "Goodland", "Burbank", "Glendale", "Airtankers",
+    "Deopham", "LaPlante", "maniacal", "pennant", "smoggy", "wildfires",
+    "postwar", "extremis", "AJ-1", "N9143Z", "Lockheed", "Connie",
+    "taxied", "pre-flights", "taxiway", "B-17s", "ME-109"
+  ],
+
+  // --- Markdown preview ---
+  "markdown.preview.fontSize": 16,
+  "markdown.preview.lineHeight": 1.8,
+  "markdown.preview.scrollEditorWithPreview": true,
+  "markdown.preview.scrollPreviewWithEditor": true,
+
+  // --- Git / file hygiene ---
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true
+}

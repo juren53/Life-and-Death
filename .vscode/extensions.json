@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    // Spell checking — catches typos in prose as you type
+    "streetsidesoftware.code-spell-checker",
+
+    // Markdown linting — flags broken syntax, inconsistent heading levels
+    "davidanson.vscode-markdownlint",
+
+    // Word count in status bar
+    "ms-vscode.wordcount",
+
+    // GitHub-style Markdown preview (matches how it renders on GitHub Pages)
+    "bierner.markdown-preview-github-styles",
+
+    // Distraction-free writing mode (Zen mode enhancements)
+    "jspolancor.monokai-charcoal-high-contrast"
+  ]
+}
