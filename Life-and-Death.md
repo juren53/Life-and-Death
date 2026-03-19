@@ -3,7 +3,7 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-03-16  2145
+2026-03-19 · 14:30
 
 
 In the late-summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us. At least once a year Dad would take us to a game at Dodger Stadium — it was always a very special event. We would dissect the details of the Dodger season so far ad infinitum and pore over how crucial this game was to their pennant hopes and someone would often jokingly, say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would all laugh.  But there was no denying that games in September carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
@@ -46,12 +46,13 @@ But after dinner my father found the time to share some of what he knew  with th
 
 There is a particular quality to a moment that almost ends everything. It does not announce itself as such. It arrives, and passes, and only afterward — sometimes years afterward — does its full weight settle on you. For me that reckoning came slowly, in stages, over decades.
 
-In the years that followed, the questions I had as a young teen continued to gnaw at me.  And as the years progressed, I was fortunate my work introduced me to new tools that allowed me research all sorts of topics that my overly active mind would not let go of.  Computer forums, online databases, social networks and the wide variety of messaging technologies that has connected the world in ways unimaginable to the teenager living on Goodland in 1966 with unanswered questions.
+In the years that followed, the questions I had as a young teen continued to gnaw at me.  And as the years progressed, I was fortunate my work introduced me to new tools that allowed me to research all sorts of topics that my overly active mind would not let go of.  Computer forums, online databases, social networks and the wide variety of messaging technologies that we generally lump under the Internet umbrella connected the world in ways unimaginable to a teenager living on Goodland in 1966 with many, many unanswered questions.
 
-Over time I slowly learned the full story, with details that I did not know in 1966 that Jack Hennessy and Jim Bissell didn't just know each other during the war.  They served together in the same unit, the 729th Bomb Squadron flying B-17s out of RAF Deopham Green, England.  They had sat in the same briefing rooms, taxied out on the same runways, formed up into the same formations, dodged the same ME-109 interceptors, navigated the same frozen air over Germany. The story was hard for a young boy's brain to process and it took some time to sink in.  By 1966 Bissell was flying corporate jets for Disney out of Burbank and Hennessy was fighting forest fires from the air over the California mountains. It was likely that the two men had stayed in touch — war buddies often did, and they were flying out of the same airport. The world, it turned out, was that small. And somehow that smallness made the loss larger.
+In those years as my thoughts would drift back that day in 1966, I would start putting to work some of the technologies to try to get some answers.  They pull back the curtain to expose that Jack Hennessy and Jim Bissell didn't just know each other during the war.  They served together in the same unit, the 729th Bomb Squadron flying B-17s out of RAF Deopham Green, England.  They had sat in the same briefing rooms, taxied out on the same runways, formed up into the same formations, dodged the same ME-109 interceptors, navigated the same frozen air over Germany. They often flew wing tip to wing tip over sites like Bremen, Eindhoven, Nantes, Cologne and of course, Berlin and Munich to name just a few.  They flew a mission together on D-Day and then later during the Battle of Bulge. 
 
-**FIXME:** This needs work.
-I never got the chance to talk with Jim Bissell about what happened that day and his connection with Jack Hennessy. He was a grown-up and I was a kid and I think my parents would have guided me away from the conversation I wanted to have.  The family moved to St. Louis two years later and I would see Christmas cards from the Bissells on the mantle but that was the extent of it. I wanted so much to ask Uncle Jim, as we sometimes called him, about his war buddy, Jack Hennessy.  What it was like to fly with him. How do you survive the kind of experiences they did and come home and live normal lives.  I wanted to tell Uncle Jim how incredibly grateful the families on Goodland Avenue were for the sacrifice his buddy, his comrade in arms, made on that Saturday in September. But that conversation and the questions I would like to have asked went unasked, the way so many questions do when you're young enough to assume there will always be more time at some later date.  
+Now it was my 60 something mind having a hard time wrapping itself around what I was learning.  That these two men - - one who had made the ultimate sacrifice to save lives on the street I grew up on and the other who was an adopted uncle who I used to play with in his back yard pool — together these men fought and survived some of the most ferocious air battles imaginable and came home together after the war. 
+
+I never got the chance to talk with Jim Bissell about what happened that day and his connection with Jack Hennessy. He was a grown-up and I was a kid and I'm pretty sure my parents would have guided me away from the conversation I wanted to have.  The family moved to St. Louis two years later and I would see Christmas cards from the Bissells on the mantle but didn't answer the questions I had. I wanted so much to ask Uncle Jim, as we sometimes called him, about his war buddy, Jack Hennessy.  What it was like to fly with him. How do you survive the kind of experiences they did and come home and live normal lives.  I wanted to tell our adopted uncle how incredibly grateful the families on Goodland Avenue were for the sacrifice his buddy, his comrade in arms, made on that Saturday in September. But that conversation and the questions I would like to have asked went unasked, the way so many questions do when you're young enough to assume there will always be more time at some later date.  
    
 ---
 
@@ -59,9 +60,7 @@ But on that September afternoon, I did not know any of this. I was thirteen, and
 
 ---
 
-
-
-It came again when I was in my thirties and did my flight training out of Burbank Airport. I soloed off the same runway, out of the same airport Jack Hennessy had departed from on his last flight. From time to time as I was doing my pre-flights, or waiting in line on a taxiway or flying over the old Goodland neighborhood I would think about the sacrifice Jack Hennessy made to save lives. I tried to imagine what a pilot sees in those final seconds when the instruments have told you what they have to tell you and the only remaining question is what kind of man you will be in the time that is left.
+It came again when I was in my thirties and did my flight training out of Burbank Airport, soloing off the same runway, out of the same airport Jack Hennessy had departed from on his last flight. From time to time as I was doing my pre-flights, or waiting in line on a taxiway or flying over the old Goodland neighborhood I would think about the sacrifice Jack Hennessy made to save lives. I tried to imagine what a pilot sees in those final seconds when the instruments have told you what they have to tell you and the only remaining question is what kind of man you will be in the time that is left.
 
 Hennessy did not hesitate. Every pilot I've ever spoken to understands what that means. In extremis, with everything going wrong at once, he had the presence of mind and the discipline and the selflessness to choose the harder path — the one that gave the people on the ground a chance to live out their Saturday afternoons and grow up and have their own lives. One of those lives was mine.
 
@@ -74,8 +73,6 @@ The Dodgers won the game on that somber day in September 1966. They went on to w
 That is the thing about a genuine brush with death. It does not ask permission to rearrange your sense of proportion. It simply does it, quietly and permanently, the way a door closing in a far room suddenly changes the acoustics of the whole house.
 
 What I came to understand only gradually — and more fully once I began flying myself — was the nature of what Jack Hennessy had done in those final seconds. It was not merely that he had tried to avoid the houses. It was that he had succeeded. A pilot in command of a dying aircraft, at low altitude, with seconds to work with, had managed to thread the plane through a residential neighborhood and bring it down in the one way that minimized, to the greatest extent still available to him, the loss of human life. He had, in effect, engineered the crash. Controlled the uncontrollable. Chosen deliberately in a moment where most people are left with nothing but panic.
-
-He saved numerous lives that afternoon — sadly, he could not save his own.
 
 I was thirteen years old. I did not know yet how close the distance was between ordinary and gone, between an afternoon on Goodland Avenue listening to the Dodger game and something else entirely. I know it now. I have known it for sixty years, every time I hear a plane overhead that sounds a little wrong, every time I'm in a plane and feel the ground fall away beneath me, every time I think about a man named Hennessy who made a choice in the sky above a neighborhood where a boy was listening to a baseball game.
 
@@ -100,4 +97,4 @@ The pennant race felt like life and death. Jack Hennessy helped me understand th
 
 ---
 
-*Last updated: 2026-03-16 · 21:45*
+*Last updated: 2026-03-19 · 14:30*
