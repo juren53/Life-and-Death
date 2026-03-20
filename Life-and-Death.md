@@ -3,7 +3,7 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-03-20 · 09:30
+2026-03-20 · 10:00
 
 
 In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us. At least once a year Dad would take us to a game at Dodger Stadium — it was always a very special event. To and from the game we would dissect the details of the Dodger season so far ad infinitum and pore over how crucial this game was to their pennant hopes and someone would often jokingly, say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would all laugh.  But there was no denying that games in September carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
@@ -58,7 +58,7 @@ But on that September afternoon in 1966, I did not know any of this. I was thirt
 
 ---
 
-Over the years, without me consciously thinking about it, the memory of the events in September 1966 would suddenly jump back front and center.  They would come back to me twenty years later when I did my flight training out of Burbank, soloing off the same runway, out of the same airport Jack Hennessy had departed from on his last flight. I tried not to think about it because I wanted to stay focused, but then I could hear a seasoned voice in the back of my head — it could have been my flight instructor, it could have been Jack Hennessy — the voice would say, relax, stay focused, pay attention to detail, don't hurry, be patient, make sure you go through every step in the check lists top-to-bottom, don't take short cuts.  As I would go through my pre-flights, or waiting in line on a taxiway or flying over the old Goodland neighborhood, it was as though Jack Hennessy was saying to me everything will be ok if you stay focused and follow the procedures.  While I found strength in these thoughts, I often caught myself trying to imagine what a pilot sees in those final seconds when the instruments have told you what they have to tell you and the only remaining question is what kind of man you will be in the time that is left.
+Over the years, without me consciously thinking about it, the memory of the events in September 1966 would suddenly jump back front and center.  They would come back to me twenty years later when I did my flight training out of Burbank, soloing off the same runway, out of the same airport Jack Hennessy had departed from on his last flight. I tried not to think about it because I wanted to stay focused, but then I could hear a seasoned voice in the back of my head — it could have been my flight instructor, it could have been Jack Hennessy — the voice would say, relax, stay focused, pay attention to detail, don't hurry, be patient, make sure you go through every step in the check lists top-to-bottom, don't take short cuts.  As I would go through my pre-flights, or waiting in line on a taxiway or flying over the old Goodland neighborhood, it was as though Jack Hennessy was saying to me everything would be okay if you stay focused and follow the procedures.  While I found strength in these thoughts, I often caught myself trying to imagine what a pilot sees in those final seconds when the instruments have told you what they have to tell you and the only remaining question is what kind of man you will be in the time that is left.
 
 Hennessy did not hesitate. Every pilot I've ever spoken to understands what that means. In extremis, with everything going wrong at once, he had the presence of mind and the discipline and the selflessness to choose the harder path — the one that gave the people on the ground a chance to live out their Saturday afternoons and grow up and have their own lives. One of those lives was mine.
 
@@ -95,4 +95,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Last updated: 2026-03-20 · 09:30*
+*Last updated: 2026-03-20 · 10:00*
