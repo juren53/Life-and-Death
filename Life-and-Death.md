@@ -3,7 +3,7 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-03-21 · 14:00
+2026-03-21 · 14:30
 
 
 In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us. At least once a year Dad would take us to a game at Dodger Stadium — it was always a very special event. To and from the game we would dissect the details of the Dodger season ad infinitum and pore over how crucial this game was to their pennant hopes and someone would often jokingly say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would all laugh.  But there was no denying that games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
@@ -78,7 +78,7 @@ That is the thing about a genuine brush with death. It does not ask permission t
 
 What I came to understand only gradually — and more fully once I began flying myself — was the nature of what Jack Hennessy had done in those final seconds. It was not merely that he had tried to avoid the houses. It was that he had succeeded. A pilot in command of a dying aircraft, at low altitude, with seconds to work with, had managed to thread the plane through a residential neighborhood and bring it down in the one way that minimized, to the greatest extent still available to him, the loss of human life. He had, in effect, engineered the crash. Controlled the uncontrollable. He had chosen deliberately in a moment when most are left with nothing but panic.
 
-I was thirteen years old.  I did not know yet how thin the was between ordinary and gone, between an afternoon on Goodland Avenue listening to the Dodger game and something else entirely. I know it now. I have known it for sixty years, every time I hear a plane overhead that sounds a little wrong, every time I'm in a plane and feel the ground fall away beneath me, every time I think about a man named Hennessy who made a choice in the sky above a neighborhood where a boy was listening to a baseball game.
+I was thirteen years old.  I did not know yet how thin the line was between ordinary and gone, between an afternoon on Goodland Avenue listening to the Dodger game and something else entirely. I know it now. I have known it for sixty years, every time I hear a plane overhead that sounds a little wrong, every time I'm in a plane and feel the ground fall away beneath me, every time I think about a man named Hennessy who made a choice in the sky above a neighborhood where a boy was listening to a baseball game.
 
 I am still a Dodger fan, and pennant races may at times feel like life and death, but Jack Hennessy helped me understand what life and death really means.
 
@@ -101,4 +101,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Last updated: 2026-03-21 · 14:00*
+*Last updated: 2026-03-21 · 14:30*
