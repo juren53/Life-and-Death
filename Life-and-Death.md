@@ -3,7 +3,7 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-03-21 · 12:00
+2026-03-21 · 12:30
 
 
 In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us. At least once a year Dad would take us to a game at Dodger Stadium — it was always a very special event. To and from the game we would dissect the details of the Dodger season ad infinitum and pore over how crucial this game was to their pennant hopes and someone would often jokingly say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would all laugh.  But there was no denying that games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
@@ -14,7 +14,7 @@ We lived close to Burbank Airport — close enough that the sound of aircraft wa
 
 What broke the pattern that afternoon was a sound that was completely out of the ordinary.
 
-It was the sound of an approaching aircraft but this was different. It had a low, deep throated, menacing growl coming from the general direction of the airport — and within seconds it was clear that something was definitely wrong. The sound was growing too loud and too fast. It had a quality to it that was different from the aircraft we heard all the time. This was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, the sound climbing toward a crescendo that normal aircraft sounds never approached. In a moment it became deafening. It shook the house, filled the air, it filled everything.
+It was the sound of an approaching aircraft but this was different. It had a low, deep-throated, menacing growl coming from the general direction of the airport — and within seconds it was clear that something was definitely wrong. The sound was growing too loud and too fast. It had a quality to it that was different from the aircraft we heard all the time. This was heavier, rougher, something mechanical straining against itself. And it kept getting louder. Not the steady, predictable rise in volume of a plane on a normal approach path, but something asymmetric and urgent, the sound climbing toward a crescendo that normal aircraft sounds never approached. In a moment it became deafening. It shook the house, filled the air, it filled everything.
 
 Then the house went dark.
 
@@ -99,4 +99,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Last updated: 2026-03-21 · 12:00*
+*Last updated: 2026-03-21 · 12:30*
