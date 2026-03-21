@@ -3,14 +3,14 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-03-21 · 11:30
+2026-03-21 · 12:00
 
 
 In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us. At least once a year Dad would take us to a game at Dodger Stadium — it was always a very special event. To and from the game we would dissect the details of the Dodger season ad infinitum and pore over how crucial this game was to their pennant hopes and someone would often jokingly say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would all laugh.  But there was no denying that games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
 
 That Saturday, September 17th, I was in the house on Goodland Avenue, listening intently to the radio. The Dodgers were once again in a tight pennant race and I was focused on the play-by-play in the early innings of the game, tracking every pitch, every play with a focus as though the outcome was all that really mattered. The afternoon was warm the way September afternoons in the San Fernando Valley were always warm — dry and golden and a little smoggy. Our neighborhood was a quiet portion of Goodland Avenue that had no outlet on the north end of our block which made it great for street baseball and football games.
 
-We lived close to Burbank Airport — close enough that the sound of aircraft was just part of everyday background hum. Planes came and went all day and night. You stopped hearing them after a while if you tuned them out, but we would often engage in plane spotting from the back yard — oh, that's a Lockheed Constellation, or that's a Douglas DC-3, or wow, there's one of the new Boeing 727s. To young boys living close to Burbank, planes were a big thing. But then there are times when more important things grab a thirteen-year-old's attention like an important baseball game. You might notice the sound of air traffic but then go about what you were doing. You only notice things that break a pattern.
+We lived close to Burbank Airport — close enough that the sound of aircraft was just part of everyday background hum. Planes came and went all day and night. You stopped hearing them after a while if you tuned them out, but we would often engage in plane spotting from the back yard — oh, that's a Lockheed Constellation, or that's a Douglas DC-3, or wow, there's one of the new Boeing 727s. To young boys living close to Burbank, planes were a big thing. But then there are times when more pressing things grab a thirteen-year-old's attention like an important baseball game. You might notice the sound of air traffic but then go about what you were doing. You only notice things that break a pattern.
 
 What broke the pattern that afternoon was a sound that was completely out of the ordinary.
 
@@ -74,9 +74,9 @@ The Dodgers won the game on that somber day in September 1966. They went on to w
 
 That is the thing about a genuine brush with death. It does not ask permission to rearrange your sense of proportion. It simply does it, quietly and permanently, the way a door closing in a far room suddenly changes the acoustics of the whole house.
 
-What I came to understand only gradually — and more fully once I began flying myself — was the nature of what Jack Hennessy had done in those final seconds. It was not merely that he had tried to avoid the houses. It was that he had succeeded. A pilot in command of a dying aircraft, at low altitude, with seconds to work with, had managed to thread the plane through a residential neighborhood and bring it down in the one way that minimized, to the greatest extent still available to him, the loss of human life. He had, in effect, engineered the crash. Controlled the uncontrollable. He had chosen deliberately in a moment where most are left with nothing but panic.
+What I came to understand only gradually — and more fully once I began flying myself — was the nature of what Jack Hennessy had done in those final seconds. It was not merely that he had tried to avoid the houses. It was that he had succeeded. A pilot in command of a dying aircraft, at low altitude, with seconds to work with, had managed to thread the plane through a residential neighborhood and bring it down in the one way that minimized, to the greatest extent still available to him, the loss of human life. He had, in effect, engineered the crash. Controlled the uncontrollable. He had chosen deliberately in a moment when most are left with nothing but panic.
 
-I was thirteen years old.  I did not know yet how close the distance was between ordinary and gone, between an afternoon on Goodland Avenue listening to the Dodger game and something else entirely. I know it now. I have known it for sixty years, every time I hear a plane overhead that sounds a little wrong, every time I'm in a plane and feel the ground fall away beneath me, every time I think about a man named Hennessy who made a choice in the sky above a neighborhood where a boy was listening to a baseball game.
+I was thirteen years old.  I did not know yet how thin the was between ordinary and gone, between an afternoon on Goodland Avenue listening to the Dodger game and something else entirely. I know it now. I have known it for sixty years, every time I hear a plane overhead that sounds a little wrong, every time I'm in a plane and feel the ground fall away beneath me, every time I think about a man named Hennessy who made a choice in the sky above a neighborhood where a boy was listening to a baseball game.
 
 I am still a Dodger fan, and pennant races may at times feel like life and death, but Jack Hennessy helped me understand what life and death really means.
 
@@ -99,4 +99,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Last updated: 2026-03-21 · 11:30*
+*Last updated: 2026-03-21 · 12:00*
