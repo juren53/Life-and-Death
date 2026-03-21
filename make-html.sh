@@ -5,4 +5,5 @@
 set -e
 
 cd "$(dirname "$0")"
-python3 build-html.py
+export PATH="$PATH:/c/Program Files/Pandoc"
+python build-html.py
