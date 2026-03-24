@@ -1,0 +1,19 @@
+ It reads well — the structure is solid and the emotional arc lands. A few things stand out on a fresh read:
+
+  Small fixes needed:
+  - Line 51: "had not happen" → "had not happened"
+  - Line 45: "young boys brain" → "young boy's brain"
+  - "gut wrenching" → "gut-wrenching" (hyphenated)
+  - "epithet" should be "epitaph" — an epithet is a descriptive phrase; an epitaph is what's inscribed on a stone
+  - The semicolon after "epitaph" should be a colon
+
+  Structural observation:
+  The Bissell section (paragraph beginning "My father had been at work...") has a sentence fragment: "Both couples part of a 'supper club'..." — needs a
+  verb.
+
+  Bigger observation:
+  The Hennessy bio paragraph and the Bissell section both describe the B-17 missions over Europe. The bio sets it up vividly with "flak corridors" and
+  "fighter interceptions" — then the Bissell section says "flying incredibly dangerous B-17 missions over Nazi occupied Europe," which covers the same
+  ground more weakly. The second mention could be trimmed or redirected.
+
+  Want to work through these one at a time, or tackle the fragment and typos first?
