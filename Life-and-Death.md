@@ -3,10 +3,10 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-03-21 · 15:30
+2026-04-15 · 13:14
 
 
-In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us. At least once a year Dad would take us to a game at Dodger Stadium — it was always a very special event. To and from the game we would dissect the details of the Dodger season ad nauseam and pore over how crucial this game was to their pennant hopes and someone would often jokingly say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would all laugh.  But there was no denying that games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
+In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us. We would dissect the details of the Dodger season ad nauseam and pore over how crucial each game was to their pennant hopes and one of us would often jokingly say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would laugh at that.  But there was no denying that games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
 
 That Saturday, September 17th, I was in the house on Goodland Avenue, listening intently to the radio. The Dodgers were once again in a tight pennant race and I was focused on the play-by-play in the early innings of the game, tracking every pitch, every play with a focus as though the outcome was all that really mattered. The afternoon was warm the way September afternoons in the San Fernando Valley were always warm — dry and golden and a little smoggy. Our neighborhood was a quiet portion of Goodland Avenue that had no outlet on the north end of our block which made it great for street baseball and football games.
 
@@ -30,7 +30,7 @@ A plane had crashed at the northern end of Goodland Avenue, just a few hundred f
 
 The aircraft that crashed at the end of Goodland Avenue on that September afternoon was a North American AJ-1 Savage — a powerful, twin-engine Korean War-era naval bomber retrofitted to become an aerial tanker for fighting wildfires, operated by AJ Airtankers out of Burbank. It had departed Burbank Airport that afternoon reportedly bound for an air show demonstration drop.  It was fully loaded but immediately after take-off, the plane lost an engine — a pilot's worst nightmare. Low speed, low altitude and fully laden — there was no good outcome available — only a choice between bad ones.
 
-The pilot at the controls, we would learn later, was Major John Francis "Jack" Hennessy, 47 years old, a decorated veteran of two wars who risked his life to serve his country. During World War II he piloted B-17s out of England, flying missions over Nazi occupied Europe through the most dangerous phase of the air war — through the flak corridors over German oil refineries and industrial centers, through fighter interceptions, through everything the Reich could put in the sky. He survived all of it. And then, as if that wasn't enough, he signed up to fly in the Korean War and he survived that too. 
+The pilot at the controls, we would learn later in news reports, was Major John Francis "Jack" Hennessy, 47 years old, a decorated veteran of two wars who risked his life to serve his country. During World War II he flew missions over Nazi occupied Europe through the most dangerous phase of the air war.  He survived all of it. And then, as if that wasn't enough, he signed up to fly in the Korean War and he survived that too. 
 
 Major Hennessy had served his country with distinction across two decades of war, and then continued flying in his postwar years fighting the forest fires of California in place of the Nazi war machine in occupied Europe. In the final seconds of his last flight, with his plane coming down and neighborhoods below him, he made a decision. He banked his wounded aircraft on a wing. He turned it away from houses — deliberately guiding a dying plane away from the people and homes on the ground. The maneuver cost him his last available options, and sadly, his life.
 
@@ -101,4 +101,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Last updated: 2026-03-21 · 15:30*
+*Last updated: 2026-04-15 · 13:14*
