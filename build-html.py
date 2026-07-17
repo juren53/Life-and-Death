@@ -119,7 +119,7 @@ html = f'''<!DOCTYPE html>
         <figcaption>City fire crews search scattered wreckage in a North Hollywood backyard. One engine lies at right; automobiles were destroyed in the crash.</figcaption>
       </figure>
 <figure>
-        <img src="73807626_1450910410.jpg" alt="Headstone of Major John F. Hennessy, Forest Lawn Memorial Park, Glendale">
+        <img src="Hennessy-grave-marker.jpg" alt="Headstone of Major John F. Hennessy, Forest Lawn Memorial Park, Glendale">
         <figcaption>Headstone of Major John F. Hennessy, Forest Lawn Memorial Park, Glendale, California &mdash; <em>Major, 729 Bomb Sq AF, World War II, Korea</em></figcaption>
       </figure>
       <figure>
