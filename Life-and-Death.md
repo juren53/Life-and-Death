@@ -30,7 +30,7 @@ A plane had crashed at the northern end of Goodland Avenue, just a few hundred f
 
 The aircraft that crashed at the end of Goodland Avenue on that September afternoon was a North American AJ-1 Savage — a powerful, twin-engine Korean War-era naval bomber retrofitted to become an aerial tanker for fighting California wildfires, operated by AJ Airtankers out of Burbank. It had departed Burbank Airport that afternoon reportedly bound for an air show demonstration drop.  It was fully loaded but immediately after take-off, the plane lost an engine — a pilot's worst nightmare. Low speed, low altitude and fully laden — there was no good outcome available — only a choice between bad ones.
 
-The pilot at the controls, we would learn later in news reports, was Major John Francis "Jack" Hennessy, 47 years old, a decorated veteran of two wars who risked his life to serve his country. He was checked out in P-51 Mustangs and P-38 Lightnings and then he signed up to fly in the Korean War and he survived that to come home and raise a family.
+The pilot at the controls, we would learn later in news reports, was Major John Francis "Jack" Hennessy, 47 years old, a decorated veteran of two wars who risked his life to serve his country. During WWII, he flew P-51 Mustangs and P-38 Lightnings and then he signed up to fly in the Korean War and he survived that to come home and raise a family.
 
 Major Hennessy had served his country with distinction across two decades of war, and then continued flying in his postwar years fighting the forest fires of California in place of America's enemies. In the final seconds of his last flight, with his plane coming down and neighborhoods below him, he made a decision. He banked his wounded aircraft on a wing. He turned it away from houses — deliberately guiding a dying plane away from the people and homes on the ground. The maneuver cost him his last available options, and sadly, his life.
 
@@ -97,4 +97,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Last updated: 2026-07-26 · 12:05*
+*Last updated: 2026-07-26 · 12:42*
