@@ -16,7 +16,7 @@ What I didn't know that day — and only pieced together decades later — was t
 
 The 60th anniversary of the crash falls on September 17, 2026.
 
-I am a Los Angeles native, a licensed pilot who trained at Burbank Airport — the same field Hennessy departed from on his last flight — and a lifelong Dodger fan. This is my account of what I witnessed that afternoon, what I learned in the years that followed, and what it taught me about the difference between the things that feel like life and death and the things that actually are.
+I am a Los Angeles native, a retired private pilot who trained at Burbank Airport — the same field Hennessy departed from on his last flight — and a lifelong Dodger fan. This is my account of what I witnessed that afternoon, what I learned in the years that followed, and what it taught me about the difference between the things that feel like life and death and the things that actually are.
 
 The piece runs approximately 2,780 words and has not been previously published in print.
 

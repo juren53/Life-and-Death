@@ -36,7 +36,7 @@ I am still a Dodger fan, sixty years on, and pennant races still sometimes feel 
 
 ---
 
-*Jim U'Ren is a Los Angeles native and licensed pilot who trained at Burbank Airport.*
+*Jim U'Ren is a Los Angeles native and retired private pilot who trained at Burbank Airport.*
 
 ---
 
