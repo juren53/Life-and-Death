@@ -10,9 +10,9 @@ Dear Editor,
 
 I am submitting a personal essay for your consideration titled *Learning the Meaning of Life and Death.*
 
-On September 17, 1966, a Navy bomber converted to a wildfire tanker crashed at the end of my street in North Hollywood, one block from our front door. The pilot, Major John "Jack" Hennessy — a decorated B-17 veteran of World War II and Korea — deliberately turned his dying aircraft away from the houses below, sacrificing his last chance of survival to save the families on the ground. I was thirteen years old, listening to the Dodger game on the radio.
+On September 17, 1966, a Navy bomber converted to a wildfire tanker crashed at the end of my street in North Hollywood, one block from our front door. The pilot, Major John "Jack" Hennessy — a decorated veteran of World War II and Korea — deliberately turned his dying aircraft away from the houses below, sacrificing his last chance of survival to save the families on the ground. I was thirteen years old, listening to the Dodger game on the radio.
 
-What I didn't know that day — and only pieced together decades later — was that the pilot was the wartime comrade of a man I knew as Uncle Jim, one of my parents' oldest friends. Jim Bissell and Jack Hennessy had flown B-17s together out of RAF Deopham Green, England, through some of the most dangerous air missions of World War II.
+What I didn't know that day — and only pieced together decades later — was that the pilot was an old wartime friend of a man I knew as Uncle Jim, one of my parents' oldest friends. Jim Bissell had flown B-17s over Nazi-occupied Europe in World War II; he and Jack Hennessy had known each other since the war, and both went on to fly professionally out of Burbank.
 
 The 60th anniversary of the crash falls on September 17, 2026.
 
