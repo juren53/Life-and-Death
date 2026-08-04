@@ -7,6 +7,7 @@ Run this after any text edits, then commit docs/index.html.
 
 import subprocess
 import re
+import datetime
 from pathlib import Path
 
 MD  = "Life-and-Death.md"
@@ -18,6 +19,13 @@ text = Path(MD).read_text(encoding="utf-8")
 # Extract "Last updated" timestamp from MD
 ts_match = re.search(r'Last updated: ([\d-]+ · [\d:]+)', text)
 timestamp = ts_match.group(1) if ts_match else ""
+
+# Extract the byline date from the MD's date line (e.g. "2026-08-04 · 14:19")
+date_match = re.search(r'^(\d{4}-\d{2}-\d{2}) · [\d:]+', text, re.M)
+byline_date = (
+    datetime.datetime.strptime(date_match.group(1), '%Y-%m-%d').strftime('%B %-d, %Y')
+    if date_match else ""
+)
 
 # ── Extract essay body ───────────────────────────────────────────────────────
 # Collect lines between the opening header block and "## Archival Materials".
@@ -74,7 +82,7 @@ html = f'''<!DOCTYPE html>
 
   <h1>Learning the Meaning of Life and Death</h1>
   <p class="subtitle">Recollections of September 17, 1966, North Hollywood, California</p>
-  <p class="byline">by Jim U&#39;Ren &nbsp;&middot;&nbsp; March 15, 2026</p>
+  <p class="byline">by Jim U&#39;Ren &nbsp;&middot;&nbsp; {byline_date}</p>
 
 {body_html}
 
