@@ -4,7 +4,7 @@ I am submitting an essay about the heroic efforts of a decorated World War II an
 
 On September 17, 1966, Major John "Jack" Hennessy's Navy bomber, converted to a wildfire tanker, went down in flames one block from my front door. I was there. I saw it happen.
 
-I've written a personal essay, "Learning the Meaning of Life and Death," about what I witnessed that afternoon, what I learned about Hennessy in the years since, and what his choice taught me about the difference between things that feel like life and death and the things that actually are. I'm a Los Angeles native, a retired pilot who trained at Burbank Airport, and I've carried this story for sixty years. My writing has previously appeared as an op-ed in the Kansas City Star.
+I've written a personal essay, "Learning the Meaning of Life and Death," about what I witnessed that afternoon, what I learned about Hennessy in the years since, and what his choice taught me about the difference between things that feel like life and death and the things that actually are. I'm a Los Angeles native, a retired pilot who trained at Burbank Airport, and a previously published op-ed contributor to the Kansas City Star. I've carried this story for sixty years.
 
 Given the anniversary and the piece's roots in Los Angeles history, I'd like it to be considered for featured placement in the Op-Ed section rather than a standard-length slot. The essay runs approximately 3,000 words as submitted and has not been previously published or submitted elsewhere; I'm glad to work with your editors on length or format if a featured placement calls for it.
 
