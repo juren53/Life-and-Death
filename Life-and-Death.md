@@ -3,7 +3,7 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-07-26 · 12:05
+2026-08-01 · 17:00
 
 
 In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us and tolerated us. We would dissect the details of the Dodger season ad nauseam and pore over each game and how crucial it was to their pennant hopes and one of us would often jokingly say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would laugh at that. But there was no denying that games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
@@ -44,7 +44,7 @@ My father had been at work that Saturday when the crash happened. When he learne
 
 Over dinner, Dad started to tell us what he had learned earlier in the day — that Jim knew the pilot of the plane and . . . but Mom cut him off. She held her hand up and stopped him short. My mother had witnessed the devastating scenes of the afternoon. The smoke, the fire, the ambulances, the fire trucks, the crowds that had invaded our quiet neighborhood. All the images and sounds were undoubtedly still fresh in her mind. Like the rest of us, she was no doubt reliving the close call that she and her family had that day and she had had enough — she had no room left for the details of the story behind it and she was not going to hear about it over her dinner table. The subject was closed. Period! We finished our dinner in silence.
 
-But after dinner my father found the time to share some of what he knew  with the rest of us.  In lowered voices, in the hallway, and in small installments over the following days Dad shared some of what he had learned in talking with Jim Bissell that afternoon. And what he knew — what I found hard to comprehend — was that the man who had died in the plane crash at the end of our street had not only known our old family friend — they had flown B-17s together in World War II.  When we pressed Dad for more details, that was basically all he would share trying to protect the young minds struggling to understand what had happened that afternoon and trying to find a way for everyone in our family to move on.
+But after dinner my father found the time to share some of what he knew  with the rest of us.  In lowered voices, in the hallway, and in small installments over the following days Dad shared some of what he had learned in talking with Jim Bissell that afternoon. And what he knew — what I found hard to comprehend — was that the man who had died in the plane crash at the end of our street had not only known our old family friend — they had flown together in World War II.  When we pressed Dad for more details, that was basically all he would share trying to protect the young minds struggling to understand what had happened that afternoon and trying to find a way for everyone in our family to move on.
 
 But there is a particular quality to a moment that almost ends everything. It does not announce itself as such. It arrives, and passes, and only afterward — sometimes years afterward — does its full weight settle on you. For me that reckoning came slowly over the years and decades.
 
@@ -97,4 +97,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Last updated: 2026-07-26 · 12:42*
+*Last updated: 2026-08-01 · 17:00*
