@@ -76,7 +76,7 @@ What I came to understand only gradually — and more fully once I began flying 
 
 I was thirteen years old.  I did not know yet how thin the line was between ordinary and gone, between an afternoon on Goodland Avenue listening to the Dodger game and something else entirely. I know it now. I have known it for sixty years, every time I hear a plane overhead that sounds a little wrong, every time I'm in a plane and feel the ground fall away beneath me, every time I think about a man named Hennessy who made a choice in the sky above a neighborhood where a boy was listening to a baseball game.
 
-I am still a Dodger fan, and pennant races may at times feel like life and death, but Jack Hennessy helped me understand what life and death really means.
+I am still a Dodger fan, and pennant races may at times feel like life and death, but Jack Hennessy helped a young boy understand what life and death really means.
 
 ---
 
