@@ -3,7 +3,7 @@
 ### Recollections of September 17, 1966, North Hollywood, California
 
 by Jim U'Ren
-2026-08-01 · 17:00
+2026-08-04 · 14:19
 
 
 In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. It was an obsession I shared with my Dad and a few other family members. Those who did not share the obsession just shook their heads at us and tolerated us. We would dissect the details of the Dodger season ad nauseam and pore over each game and how crucial it was to their pennant hopes and one of us would often jokingly say "You know, it's not a matter of life and death . . . it's much more important than that!" and we would laugh at that. But there was no denying that games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. Every out had consequence. The standings were checked the way an investor monitors their portfolio, and a Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
@@ -97,4 +97,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Last updated: 2026-08-01 · 17:00*
+*Last updated: 2026-08-04 · 14:19*
