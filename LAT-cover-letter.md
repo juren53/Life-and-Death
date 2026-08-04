@@ -18,3 +18,6 @@ Jim U'Ren
 jim.uren@gmail.com
 
 Jim U'Ren is a retired 22-year veteran of JPL and taught at UCLA.
+
+"Learning the Meaning of Life and Death,"
+https://juren53.github.io/Life-and-Death/
