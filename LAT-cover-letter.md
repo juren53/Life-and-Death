@@ -1,6 +1,6 @@
 Dear Editor,
 
-I am submitting an essay about the heroic efforts of a decorated World War II and Korean War pilot who maneuvered a dying plane away from my North Hollywood neighborhood 60 years ago next month, sacrificing his own chance to survive in order to spare the families below.
+I am submitting an essay to commemorate the heroic efforts of a decorated World War II and Korean War pilot who maneuvered a dying plane away from my North Hollywood neighborhood 60 years ago next month, sacrificing his own chance to survive in order to spare numerous families below.
 
 On September 17, 1966, Major John "Jack" Hennessy's Navy bomber, converted to a wildfire tanker, went down in flames one block from my front door. I was there. I saw it happen.
 
