@@ -30,12 +30,6 @@ Major Hennessy was buried the following week at Forest Lawn Memorial Park in Gle
 
 ---
 
-In the days that followed, my father learned — through an old family friend, a pilot named Jim Bissell who flew for Disney out of Burbank — that Bissell had known Hennessy. They had flown together in World War II. My mother, who had witnessed the smoke and fire and ambulances firsthand, couldn't bear to hear the details over dinner. The subject was closed. It would be years before I understood the full shape of what had happened a few hundred feet from our door.
-
-None of us on Goodland Avenue got to thank him. None of us even knew his name that day.
-
----
-
 Over the years, the memory came rushing back unbidden — most of all when I did my own flight training out of Burbank, soloing off the same runway Hennessy had departed from on his last flight. I would go through my preflights, or wait on a taxiway, and it was as though a seasoned voice were telling me: relax, stay focused, pay attention to detail, don't take shortcuts. Everything would be okay if you stayed focused and followed the procedures.
 
 Hennessy did not hesitate. In extremis, with everything going wrong at once, he had the presence of mind and the selflessness to choose the harder path — the one that gave the people on the ground a chance to live out their Saturday afternoons and grow up and have their own lives. One of those lives was mine.
