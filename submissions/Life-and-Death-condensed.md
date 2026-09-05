@@ -32,7 +32,7 @@ Major Hennessy was buried the following week at Forest Lawn Memorial Park in Gle
 
 Over the years, the memory of Jack Hennessy and the events of that day in 1966 would come rushing back from time to time — most of all when I did my own flight training out of Burbank, soloing off the same runway Hennessy had departed from on his last flight. In preparing for my flights, when going through my preflights, or waiting in line on a taxiway, it was as though a seasoned voice were telling me: relax, stay focused, pay attention to detail, don't take shortcuts. Everything would be okay if you stayed focused and followed the procedures.
 
-On that tragic day in September 1966, Major Hennessy stayed focused and did not hesitate. In extremis, with everything going wrong at once, he had the presence of mind and the selflessness to choose the harder path — the one that gave the people on the ground the rest of their Saturday afternoons, and all the ordinary days after it. One of those lives was mine.
+On that tragic day, Major Hennessy stayed focused and did not hesitate. In extremis, with everything going wrong at once, he had the presence of mind and the selflessness to choose the harder path — the one that gave the people on the ground the rest of their Saturday afternoons, and all the ordinary days after it. One of those lives was mine.
 
 The Dodgers won their game that somber afternoon, and won the pennant, but the fever pitch of my obsession was gone. Something had shifted. The pennant race that, hours earlier, seemed to be the most consequential thing in the world had been placed, without my consent, next to something else.
 
