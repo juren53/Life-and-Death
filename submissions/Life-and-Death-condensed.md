@@ -42,4 +42,4 @@ I am still a Dodger fan, and pennant races may at times feel like life and death
 
 ---
 
-*Jim U'Ren is a Los Angeles native, a retired pilot who trained at Burbank Airport, and a retired 22-year veteran of JPL who taught at UCLA. His op-eds have previously appeared in the Kansas City Star.*
+*Jim U'Ren is a Los Angeles native, a retired pilot who trained at Burbank Airport, and a retired 22-year veteran of JPL who taught at UCLA.*
