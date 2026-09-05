@@ -12,7 +12,7 @@ In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion
 
 That Saturday, September 17th, I was in the house on Goodland Avenue in North Hollywood, listening to the game on the radio. We lived close enough to Burbank Airport that the sound of aircraft was just part of everyday background hum — you stopped hearing it after a while. But then there are times when more pressing things grab a thirteen-year-old's attention, like an important baseball game. You only notice things that break a pattern.
 
-What broke the pattern that afternoon was a sound completely out of the ordinary — a low, deep-throated, menacing growl, heavier and rougher than the aircraft we heard all the time, the sound climbing toward a crescendo that normal aircraft sounds never approached. In a moment it became deafening and then shook the house.
+What broke the pattern that afternoon was a sound completely out of the ordinary — a low, deep-throated, menacing growl, heavier and rougher than the aircraft we heard all the time, the sound climbing toward a crescendo that normal aircraft sounds never approached. In a moment it became deafening and then it shook the house.
 
 Then the house went dark. The shadow of the plane swept over the house and swallowed it whole — a moving darkness, total and sudden, blotting out the September sun. I froze in front of the radio. The roar was at its peak. Then the shadow moved on, and the sunlight came flooding back.
 
