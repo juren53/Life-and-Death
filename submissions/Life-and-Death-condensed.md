@@ -18,7 +18,7 @@ Then the house went dark. The shadow of the plane swept over the house and swall
 
 The sound of the plane began to recede. Then came an explosion — not a sharp crack but a rolling concussion that shook the house for several seconds. There was a moment of eerie silence. Then shouts, running feet, mothers calling for their children. Neighbors poured into the street.
 
-A plane had crashed at the northern end of Goodland Avenue, a few hundred feet from our front door. I rushed outside, stunned by flames and billowing smoke and secondary explosions. My young adolescent brain slowly came to grips with the gut-wrenching conclusion that someone had probably just lost their life in that inferno.
+A plane had crashed at the northern end of Goodland Avenue, a few hundred feet from our front door. I rushed outside, stunned by flames and billowing smoke and secondary explosions. My young adolescent brain slowly came to grips with the gut-wrenching conclusion that someone had probably just lost their life in the conflagration before me.
 
 ---
 
