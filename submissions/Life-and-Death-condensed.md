@@ -8,7 +8,7 @@ by Jim U'Ren
 
 ---
 
-In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. Games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered — a loss could darken an entire afternoon for a boy with nothing more pressing on his schedule than being thirteen.
+In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. Games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. We would often joke, "You know this game isn't a matter of life and death, it's much more important than that," and then we would laugh. But every pitch mattered — a loss could darken an entire afternoon for a boy with nothing more pressing on his schedule than being thirteen.
 
 That Saturday, September 17th, I was in the house on Goodland Avenue in North Hollywood, listening to the game on the radio. We lived close enough to Burbank Airport that the sound of aircraft was just part of everyday background hum — you stopped hearing it after a while. But then there are times when more pressing things grab a thirteen-year-old's attention, like an important baseball game. You only notice things that break a pattern.
 
