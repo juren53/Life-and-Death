@@ -8,7 +8,7 @@ by Jim U'Ren
 
 ---
 
-In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. Games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered. A Dodger loss could darken an entire afternoon in a way that nothing short of catastrophe should be able to darken an afternoon for a boy with nothing more pressing on his schedule than being thirteen.
+In the summer of 1966, I was thirteen years old and a Dodger fan with a devotion that bordered on the maniacal. Games late in the season carried a weight that was hard to account for rationally but impossible to deny emotionally. Every pitch mattered — a loss could darken an entire afternoon for a boy with nothing more pressing on his schedule than being thirteen.
 
 That Saturday, September 17th, I was in the house on Goodland Avenue in North Hollywood, listening to the game on the radio. We lived close enough to Burbank Airport that the sound of aircraft was just part of everyday background hum — you stopped hearing it after a while. But then there are times when more pressing things grab a thirteen-year-old's attention, like an important baseball game. You only notice things that break a pattern.
 
@@ -24,17 +24,17 @@ A plane had crashed at the northern end of Goodland Avenue, a few hundred feet f
 
 The aircraft was a North American AJ-1 Savage — a twin-engine Korean War-era naval bomber retrofitted as an aerial tanker for fighting California wildfires, operated out of Burbank. It had just taken off, fully loaded, when it lost an engine — a pilot's worst nightmare. Low speed, low altitude, fully laden: there was no good outcome available, only a choice between bad ones.
 
-The pilot, we learned later, was Major John Francis "Jack" Hennessy, 47, a decorated veteran of two wars. During WWII he was a flight instructor preparing young aviators to fight America's enemies. He later flew bombers in Korea and then came home, and raised a family. In civilian life, Jack Hennessy would trade fighting America's adversaries for fighting California wildfires.  In the final seconds of his last flight, with his plane going down over houses, he banked his wounded aircraft on a wing and turned it away from the neighborhood below — deliberately steering a dying plane away from the people and homes on the ground. The maneuver cost him his life.
+The pilot, we learned later, was Major John Francis "Jack" Hennessy, 47, a decorated veteran of two wars — a flight instructor in WWII, a bomber pilot in Korea. He came home, raised a family, and traded fighting America's adversaries for fighting California wildfires. In the final seconds of his last flight, with his plane going down over houses, he banked his wounded aircraft on a wing and turned it away from the neighborhood below — deliberately steering a dying plane away from the people and homes on the ground. The maneuver cost him his life.
 
-Major Hennessy was buried the following week at Forest Lawn Memorial Park in Glendale. His headstone reads: *Major, 729 Bomb Sq AF, World War II, Korea.* It deserves more: "Here lies a hero who in his last act saved countless lives as he lost his."
+Major Hennessy was buried the following week at Forest Lawn Memorial Park in Glendale. His headstone reads: *Major, 729 Bomb Sq AF, World War II, Korea.* It deserves more, much more: "Here lies a hero who in his last act saved countless lives as he lost his."
 
 ---
 
 Over the years, the memory of Jack Hennessy and the events of that day in 1966 would come rushing back from time to time — most of all when I did my own flight training out of Burbank, soloing off the same runway Hennessy had departed from on his last flight. In preparing for my flights, when going through my preflights, or waiting in line on a taxiway, it was as though a seasoned voice were telling me: relax, stay focused, pay attention to detail, don't take shortcuts. Everything would be okay if you stayed focused and followed the procedures.
 
-Hennessy did not hesitate. In extremis, with everything going wrong at once, he had the presence of mind and the selflessness to choose the harder path — the one that gave the people on the ground a chance to live out their Saturday afternoons and grow up and have their own lives. One of those lives was mine.
+Hennessy did not hesitate. In extremis, with everything going wrong at once, he had the presence of mind and the selflessness to choose the harder path — the one that gave the people on the ground the rest of their Saturday afternoons, and all the ordinary days after it. One of those lives was mine.
 
-The Dodgers won their game that somber afternoon, and won the pennant, but the fever pitch of my obsession was gone. Something had shifted. The pennant race that, hours earlier, seemed to be the most consequential thing in the world had been placed, without my consent, next to something else — and in that comparison it found its actual size.
+The Dodgers won their game that somber afternoon, and won the pennant, but the fever pitch of my obsession was gone. Something had shifted. The pennant race that, hours earlier, seemed to be the most consequential thing in the world had been placed, without my consent, next to something else.
 
 I was thirteen years old. I did not know yet how thin the line was between ordinary and gone. I know it now — every time I hear a plane and think back on that day in 1966, every time I think about a man named Hennessy who made a choice in the sky above a neighborhood where a boy was listening to a baseball game.
 
