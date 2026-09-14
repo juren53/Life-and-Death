@@ -70,7 +70,7 @@ None of us on Goodland Avenue got to thank him. None of us even knew his name th
 
 ---
 
-The Dodgers won the game on that somber day in September 1966. They went on to win the NL pennant and then lose in the World Series but the fever pitch of my obsession was gone. Things had changed. Something had shifted. The pennant race that had seemed, earlier that afternoon, to be the most consequential thing in the world had been placed, suddenly and without my consent, next to something else — and in that comparison it found its actual size.
+The Dodgers won the game on that somber day in September 1966. They went on to win the NL pennant and then lose in the World Series but the fever pitch of my obsession was gone. Something had shifted. The pennant race that had seemed, earlier that afternoon, to be the most consequential thing in the world had been placed, suddenly and without my consent, next to something else — and in that comparison it found its actual size.
 
 That is the thing about a genuine brush with death. It does not ask permission to rearrange your sense of proportion. It simply does it, quietly and permanently, the way a door closing in a far room suddenly changes the acoustics of the whole house.
 
