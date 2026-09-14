@@ -38,7 +38,7 @@ Major John Hennessy was buried the following week at Forest Lawn Memorial Park i
 
 ---
 
-In the hours and days that followed the tragic events of that day, a fuller story slowly revealed itself to us.
+In the hours and days that followed the tragic events of that day, a fuller story slowly revealed itself to us. Part of it had already been unfolding that very afternoon, miles from Goodland Avenue, before I knew there was a story to know.
 
 My father had been at work that Saturday when the crash happened. When he learned of the crash, he called an old friend who was a pilot, Jim Bissell, who flew for Disney out of Burbank. Jim and his wife Betty were old friends — members of my parents' wedding party in 1946.  They appear in the funny 8mm family movies my Dad took in the '40s. Over the years our families spent delightful summer afternoons at the Bissell pool. Both couples belonged to a supper club — a circle of old friends who met regularly to sample the variety of restaurants LA had to offer. When Dad got home from work that evening, he knew something the rest of us didn't yet — that Jim Bissell knew the pilot of the plane that was lost in the crash that afternoon. 
 
