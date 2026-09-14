@@ -24,7 +24,7 @@ The sound of the plane began to recede but then came the explosion.
 
 It was not a sharp crack but a rolling concussion, a low rumble that traveled through the ground as much as the air, and it shook the house for several seconds. There was a moment of eerie silence. Then suddenly, there were shouts. The sound of running — feet on pavement, children's voices, mothers calling out to their children. Neighbors poured into the street.
 
-A plane had crashed at the northern end of Goodland Avenue, just a few hundred feet from our front door.  I rushed out to the front yard and was stunned by the sight in front of me. Flames and billowing smoke and secondary explosions created an overwhelming, surreal scene. And in that moment my young adolescent brain slowly came to grips with the gut-wrenching conclusion that someone probably had just lost their life in that inferno.
+A plane had crashed at the northern end of Goodland Avenue, just a few hundred feet from our front door.  I rushed out to the front yard and was stunned by the sight in front of me. Flames and billowing smoke and secondary explosions created an overwhelming, surreal scene. And in that moment my young adolescent brain slowly came to grips with the gut-wrenching conclusion that someone had probably just lost their life in the conflagration before me.
 
 ---
 
