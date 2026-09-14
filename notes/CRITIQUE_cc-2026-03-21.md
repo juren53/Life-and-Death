@@ -49,3 +49,27 @@ A genuinely moving piece with a strong, measured voice. The Dodger framing earns
 - **The acoustic metaphor** closing para. 23 — *"the way a door closing in a far room suddenly changes the acoustics of the whole house"* — is excellent.
 - **"He had, in effect, engineered the crash. Controlled the uncontrollable."** — that's the whole essay in two sentences.
 - The Dodger obsession as framing device works perfectly with the title and earns its return at the end.
+
+---
+
+## Status of Changes (checked against draft as of 2026-09-14)
+
+**Applied:**
+- Hennessy biography paragraph split into shorter paragraphs (war record / final act / burial now separated).
+- Research/internet paragraph ("message groups, user forums...") cut entirely.
+- "deep throated" → "deep-throated" (hyphenated).
+- "a moment where most are left with nothing but panic" → "when."
+- "how close the distance was" → "how thin the line was between ordinary and gone."
+- Duplicate "important" in para. 3 fixed ("more pressing things... an important baseball game").
+- "wing-tip to wing-tip" no longer appears in the text (passage rewritten).
+
+**Not yet applied:**
+- "and sadly, his life" — still undersells the climax in the Hennessy paragraph.
+- "Things had changed. Something had shifted." — still redundant.
+- "the fever pitch of my obsession was gone" — cliché still in place.
+- "a pilot's worst nightmare" — cliché still in place (appears in the engine-failure sentence).
+- Proposed epitaph — still reads "Here lies a hero who in his last act saved countless lives as he lost his," not the cleaner alternative.
+- Para. 18 (unasked Bissell questions) — still long and circling; not tightened.
+- Present-tense slip in para. 3 ("there are times when...") — not corrected to match past-tense narration.
+
+Separately, three items from a later critique (`CRITIQUE_by-OC-Life-and-Death-2026-09-14.md`) have since been applied: the dinner-table sentence was tightened, a bridging sentence was added for the chronological shift into the Bissell story, and the historical AJ-1/Hennessy section was rewoven into first-person research voice.
